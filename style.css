@@ -456,7 +456,7 @@ li:before{
 
   #hide{
    height: 23em;
-   width: 100vw;
+   
    display: flex;
     flex-direction: column;
    justify-content: center;
